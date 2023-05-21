@@ -11,4 +11,4 @@ pip install -r requirements.txt
 
 # Data
 
-Training, validation and test data can be found from [this folder](https://drive.google.com/file/d/11WfakK6TSGsO2Ed26AU6dKrkLmZz90BV/view?usp=sharing).
+Training, validation and test data can be found from [this folder](https://drive.google.com/file/d/18e8TW-c4eDqclmXlHPRF-xRFBnQF_V0i/view?usp=sharing).
